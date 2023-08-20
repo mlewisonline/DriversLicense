@@ -1,4 +1,5 @@
-# driversNumber
+# DriversLicense Number Generator
+
 Using the specs below the program genertates a UK driver license number
 
 Here is a guide to the UK driving licence number format.
