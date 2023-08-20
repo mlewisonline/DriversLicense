@@ -1,8 +1,17 @@
 # DriversLicense Number Generator
 
 Using the specs below the program genertates a UK driver license number
+<p align="left">
+<img src="https://ukdriving.org.uk/wp-content/uploads/2021/04/letters-300x166.png">
+</p>
 
-Here is a guide to the UK driving licence number format.
+
+
+
+
+
+
+### Here is a guide to the UK driving licence number format.
 
 Digit 1–5: The first five characters of the surname (extra 9’s added for names shorter than 5 letters)
 
